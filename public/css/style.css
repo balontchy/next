@@ -1,0 +1,24 @@
+body {
+    display: block;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin: 100px  auto;
+    width: 50%;     
+    font-family: 'Oswald', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+    
+}
+.logo{
+
+    color: rgb(119, 74, 223);
+}
+.container{
+
+     display: block;
+    justify-content: space-between;
+    text-align: center;
+    align-items: center;
+    margin: 0  auto;
+   color: black;
+}
